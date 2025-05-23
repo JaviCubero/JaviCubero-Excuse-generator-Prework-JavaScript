@@ -3,3 +3,12 @@
 body{
     background: white;
 }
+
+p {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+div {
+    margin-top: 180px;
+}
