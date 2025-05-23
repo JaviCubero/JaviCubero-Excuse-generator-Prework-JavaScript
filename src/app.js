@@ -7,9 +7,9 @@ window.onload = function() {
   //write your code here
   let full_excuse = [];
 
-  let who = ['The dog ', 'My grandma ', 'The mailman ', 'My bird '/*, 'The neighbour '*/];
-  let action = ['ate ', 'peed ', 'crushed ', 'broke '/*, 'sold '*/];
-  let what = ['my homework ', 'my phone ', 'the car '/*, 'the door ', 'my trousers '*/];
+  let who = ['The dog ', 'My grandma ', 'The mailman ', 'My bird '];
+  let action = ['ate ', 'peed ', 'crushed ', 'broke '];
+  let what = ['my homework ', 'my phone ', 'the car '];
   let when = ['before the class.', 'when I was sleeping.', 'while I was exercising.', 'during my lunch.', 'while I was praying.'];
 
   function randomNumber (array_lenght) {
